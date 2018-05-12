@@ -1,0 +1,35 @@
+_repo: The-Square-Book-of-Animals_39656
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nicholson, William
+    alias: Beggarstaff, W.
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '36782'
+    url: http://www.gutenberg.org/2009/agents/36782
+    wikipedia: http://en.wikipedia.org/wiki/William_Nicholson_%28artist%29
+covers:
+- cover_type: archival
+  image_path: 39656-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waugh, Arthur
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '40135'
+    url: http://www.gutenberg.org/2009/agents/40135
+description: ''
+gutenberg_issued: '2012-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Domestic animals -- Juvenile poetry'
+title: The Square Book of Animals
+url: http://www.gutenberg.org/ebooks/39656
